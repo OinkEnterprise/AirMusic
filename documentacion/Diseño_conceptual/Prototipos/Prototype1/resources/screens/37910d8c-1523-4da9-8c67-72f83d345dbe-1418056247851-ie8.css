@@ -1,0 +1,14 @@
+#s-37910d8c-1523-4da9-8c67-72f83d345dbe #s-background {
+  -ms-filter: ;
+  filter: ;
+  margin-left: 0px;
+  margin-top: 0px;
+}
+.ui-page {
+  overflow-x: hidden;
+}
+#s-37910d8c-1523-4da9-8c67-72f83d345dbe > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}

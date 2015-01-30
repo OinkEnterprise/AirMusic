@@ -1,0 +1,40 @@
+#s-37910d8c-1523-4da9-8c67-72f83d345dbe {
+  background-color: transparent;
+  background-image: none;
+  min-width: 1366px;
+  min-height: 768px;
+}
+#s-37910d8c-1523-4da9-8c67-72f83d345dbe > #alignmentBox {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+#s-37910d8c-1523-4da9-8c67-72f83d345dbe #s-background {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 1366px;
+  height: 768px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+  box-shadow: none;
+}
+#s-37910d8c-1523-4da9-8c67-72f83d345dbe #s-GestoAPant1 {
+  position: absolute;
+  top: 10px;
+  left: 1191px;
+  width: 160px;
+  height: 254px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  transform: rotate(0deg);
+}
+.ui-page {
+  overflow-x: hidden;
+}
+#s-37910d8c-1523-4da9-8c67-72f83d345dbe > #loadMark {
+  width: 1px;
+  visibility: hidden;
+  display: none;
+}
