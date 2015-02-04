@@ -7,6 +7,9 @@ Podemos ver la documentación para el desarollo de la misma así como el proyect
 
 Actualmente se encuentra en el primer prototipo.
 
+Para más información puede consultar la página web:
+http://airmusic4.webnode.es/
+
 Autores:
 + Jesús Maillo Hidalgo.
 + Sergio González Vázquez.
